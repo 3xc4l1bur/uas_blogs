@@ -6,7 +6,7 @@
 	$hasil->execute();
 	$data = $hasil->fetchAll();
 ?>
-<br>
+<i><h4 style="color: red;">&copy;Taufik Akihiro</h4></i>
 <h2 class="data-artikel">Data Blog</h2>
 <a class="btn pull-right" href="index.php?p=artikel&m=add">Tambah Baru</a>
 <div style="clear:both;width:200px;margin-right:12px;" class="pull-right">
